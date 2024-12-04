@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![trophy-dark](https://github-profile-trophy.vercel.app/?username=robvangeloven&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
+[![trophy-light](https://github-profile-trophy.vercel.app/?username=robvangeloven&theme=flat)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
+
+[![Rob van Geloven's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=robvangeloven&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Rob van Geloven's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=robvangeloven&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=robvangeloven&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=robvangeloven&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-statst#gh-light-mode-only)
