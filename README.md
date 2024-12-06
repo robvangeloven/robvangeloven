@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 
 [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=robvangeloven&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=robvangeloven&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-statst#gh-light-mode-only)
+
+[![Rob van Gelovens's WakaTime stats-Dark](https://github-readme-stats.vercel.app/api/wakatime?username=robvangeloven&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Rob van Gelovens's WakaTime stats-Light](https://github-readme-stats.vercel.app/api/wakatime?username=robvangeloven&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
